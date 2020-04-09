@@ -29,6 +29,7 @@
 - what is my account balance
 - what's my account balance?
 - what's my account balance
+- What is my [balance](payment_amount)?
 
 ## intent:check_earnings
 - How much money went into my account last month?
@@ -40,7 +41,7 @@
 - how much was deposited in my account in the last two weeks?
 - check deposits for last week
 - total deposits over last year
-- how much was deposited in January 
+- how much was deposited in January
 
 ## intent:deny
 - not really
@@ -58,6 +59,8 @@
 - quit
 - stop
 - bye
+- i quit
+- this isnt going anywhere
 
 ## intent:greet
 - good morning
@@ -66,6 +69,7 @@
 - hey
 - good evening
 - hello
+- Hiya
 
 ## intent:inform
 - $10
@@ -159,6 +163,7 @@
 - i want to pay my [current balance](payment_amount) on my [gringots](credit_card) credit card
 - I want to pay $500 on my [gringots](credit_card) credit card on Sunday
 - I want to pay my [current balance](payment_amount) on my [gringots](credit_card) credit card today
+- when is my payment due?
 
 ## intent:search_transactions
 - how much did I spend at [Target](vendor_name) this week?
@@ -200,3 +205,17 @@
 - I want to pay Bill
 - pay my friend
 - transfer money
+
+## intent:speak_to_person
+- can I speak to a person?
+- speak to human
+- talk to jeremy
+- talk to real person
+- representative
+
+## intent:bill_due
+- when is my next bill due?
+
+## intent:chit_chat
+- How much wood can a woodchuck chuck?
+- I think its me not you
