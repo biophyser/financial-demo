@@ -30,6 +30,7 @@
 - what's my account balance?
 - what's my account balance
 - What is my [balance](payment_amount)?
+- SHOW ME THE MONEY!!!
 
 ## intent:check_earnings
 - How much money went into my account last month?
