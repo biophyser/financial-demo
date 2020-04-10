@@ -205,6 +205,8 @@
 - I want to pay Bill
 - pay my friend
 - transfer money
+- I would like to transfer money
+- i want to transfer money
 
 ## intent:speak_to_person
 - can I speak to a person?
